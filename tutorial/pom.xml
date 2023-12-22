@@ -31,9 +31,11 @@
     <name>Jakarta EE 10 Examples - Tutorial</name>
 
     <modules>
+        
+        <module>case-studies</module>
+        <!--
         <module>archetypes</module>
         <module>batch</module>
-        <module>case-studies</module>
         <module>cdi</module>
         <module>concurrency</module>
         <module>connectors</module>
@@ -44,6 +46,7 @@
         <module>persistence</module>
         <module>security</module>
         <module>web</module>
+        -->
     </modules>
 
     <scm>

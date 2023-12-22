@@ -29,7 +29,9 @@
 
   <modules>
     <module>dukes-bookstore</module>
+    <!--
     <module>dukes-forest</module>
     <module>dukes-tutoring</module>
+    -->
   </modules>
 </project>
