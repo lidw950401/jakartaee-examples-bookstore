@@ -13,3 +13,8 @@ target
 # IntelliJ
 .idea
 **/*.iml
+
+# macos
+**/.DS_Store
+.DS_Store
+.DS_Store?
